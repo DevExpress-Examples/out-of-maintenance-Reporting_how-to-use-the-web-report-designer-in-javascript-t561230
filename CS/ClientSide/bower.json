@@ -1,0 +1,15 @@
+{
+  "name": "report-designer-example",
+  "version": "1.0.0",
+  "description": "Web End-User Report Designer example",
+  "dependencies": {
+    "xtrareportsjs": "~17.1.6"
+  },
+  "authors": [
+    "DevExpress"
+  ],  
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://documentation.devexpress.com/XtraReports/2440/Getting-Started",
+  "private": true
+}
