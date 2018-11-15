@@ -1,3 +1,16 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [bower.json](./CS/ClientSide/bower.json) (VB: [bower.json](./VB/ClientSide/bower.json))
+* **[example.js](./CS/ClientSide/example.js) (VB: [example.js](./VB/ClientSide/example.js))**
+* [index.html](./CS/ClientSide/index.html) (VB: [index.html](./VB/ClientSide/index.html))
+* [style.css](./CS/ClientSide/style.css)
+* [QueryBuilderController.cs](./CS/ServerSide/Controllers/QueryBuilderController.cs) (VB: [QueryBuilderController.vb](./VB/ServerSide/Controllers/QueryBuilderController.vb))
+* [ReportDesignerController.cs](./CS/ServerSide/Controllers/ReportDesignerController.cs) (VB: [ReportDesignerController.vb](./VB/ServerSide/Controllers/ReportDesignerController.vb))
+* [WebDocumentViewerController.cs](./CS/ServerSide/Controllers/WebDocumentViewerController.cs) (VB: [WebDocumentViewerController.vb](./VB/ServerSide/Controllers/WebDocumentViewerController.vb))
+* [Global.asax.cs](./CS/ServerSide/Global.asax.cs) (VB: [Global.asax.vb](./VB/ServerSide/Global.asax.vb))
+* [MyReportStorage.cs](./CS/ServerSide/MyReportStorage.cs) (VB: [MyReportStorage.vb](./VB/ServerSide/MyReportStorage.vb))
+<!-- default file list end -->
 # How to use the Web Report Designer in JavaScript
 
 
