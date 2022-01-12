@@ -6,7 +6,7 @@ Imports System.Web.Mvc
 
 Namespace ServerSide.Controllers
     Public Class ReportDesignerController
-        Inherits ReportDesignerApiController
+        Inherits ReportDesignerApiControllerBase
 
         ' This action processes each internal request from the Report Designer.
         Public Overrides Function Invoke() As ActionResult

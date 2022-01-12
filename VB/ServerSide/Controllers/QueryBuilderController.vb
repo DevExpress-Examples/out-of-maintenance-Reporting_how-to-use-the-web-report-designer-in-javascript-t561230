@@ -3,7 +3,7 @@ Imports System.Web.Mvc
 
 Namespace ServerSide.Controllers
     Public Class QueryBuilderController
-        Inherits QueryBuilderApiController
+        Inherits QueryBuilderApiControllerBase
 
         Public Overrides Function Invoke() As ActionResult
             Dim result = MyBase.Invoke()

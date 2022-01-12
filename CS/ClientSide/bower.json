@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Web End-User Report Designer example",
   "dependencies": {
-    "xtrareportsjs": "~17.1.6"
+    "xtrareportsjs": "^17.2.18"
   },
   "authors": [
     "DevExpress"
